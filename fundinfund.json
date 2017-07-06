@@ -1,11 +1,11 @@
 {
- "name": "flare",
+ "name": "Fund in Fund Portfolio",
  "children": [
   {
-   "name": "analytics",
+   "name": "Emerging Markets Fund",
    "children": [
     {
-     "name": "cluster",
+     "name": "Latin American Equities",
      "children": [
       {"name": "AgglomerativeCluster", "size": 3938},
       {"name": "CommunityStructure", "size": 3812},
