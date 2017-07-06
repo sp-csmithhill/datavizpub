@@ -23,6 +23,29 @@
      ]
     }
    ]
+  },
+  {
+   "name": "Developed Markets Fund",
+   "children": [
+    {
+     "name": "North American Equities",
+     "children": [
+      {"name": "Security 1", "size": 3938},
+      {"name": "Security 2", "size": 3812},
+      {"name": "Security 3", "size": 6714},
+      {"name": "Security 4", "size": 743}
+     ]
+    },
+    {
+     "name": "Western Europe Equities",
+     "children": [
+      {"name": "Security 3", "size": 3534},
+      {"name": "Security 4", "size": 5731},
+      {"name": "Security 5", "size": 7840},
+      {"name": "Security 6", "size": 5914}
+     ]
+    }
+   ]
   }
  ]
 }
