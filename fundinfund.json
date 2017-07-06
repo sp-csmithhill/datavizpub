@@ -23,26 +23,6 @@
      ]
     }
    ]
-  },
-  {
-   "name": "Western Europe Fund",
-   "children": [
-    {"name": "British Equities ETF", "size": 17010},
-    {"name": "French Equities Index", "size": 5842},
-    {"name": "German Equities Fund",
-     "children": [
-      {"name": "BMW", "size": 1983},
-      {"name": "Deutsche Bank", "size": 2047},
-      {"name": "BASF", "size": 1375},
-      {"name": "Allianz", "size": 8746},
-      {"name": "Volkswagen Group", "size": 2202},
-      {"name": "Deutsche Telekom", "size": 1382},
-      {"name": "Bayer", "size": 1629},
-      {"name": "Siemens", "size": 1675},
-      {"name": "Lufthansa", "size": 2042}
-     ]
-    }
-   ]
   }
  ]
 }
