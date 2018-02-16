@@ -5,7 +5,7 @@
    "name": "Emerging Markets Fund",
    "children": [
     {
-     "name": "Latin American Equities",
+     "name": "Latin American Equities", tree.nodeSize(200),
      "children": [
       {"name": "Security 1", "size": 8938},
       {"name": "Security 2", "size": 3812},
